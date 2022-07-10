@@ -8,6 +8,7 @@
 <project remote="github" name="TechWiz007/device_xiaomi_lisa" path="device/xiaomi/lisa" revision="twelve"/>
 <project remote="gitlab" name="lisa-oss/vendor_xiaomi_lisa" path="vendor/xiaomi/lisa" revision="twelve"/>
 <project remote="github" name="Atom-X-Devs/android_kernel_xiaomi_sm7325" path="kernel/xiaomi/lisa" revision="inline"/>
+<project remote="gitlab" name="ghostrider-reborn/android_vendor_xiaomi_lisa-firmware" path="vendor/xiaomi/lisa-firmware" revision="sapphire"/>
 
 <!--Neutron Clang for AtomX Kernel-->
 <project remote="gitlab" name="dakkshesh07/neutron-clang" path="prebuilts/clang/host/linux-x86/clang-neutron" revision="Neutron-15"/>
